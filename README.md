@@ -69,7 +69,7 @@ and the repeat the last step. Finally,
 
 ````ruby app.rb````
 
-to start the server on port 4567.
+to start the server on port 4567. You'll need to press the link button on top of the Hue bridge to connect the app to your lights.
 
 ######Troubleshooting######
 
